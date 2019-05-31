@@ -1,0 +1,39 @@
+html { 
+	background-image: url(prototec.svg);
+	background-repeat: no-repeat;
+	background-color: #222;
+	background-size: contain;
+	background-position: center;
+	color: #fff;
+	height: 100%;
+	padding: 0;
+}
+h1 {
+	font: bold 60pt/60pt Impact, Ubuntu, sans-serif;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+body {
+	position: absolute;
+	text-align: center;
+	font: 14pt/14pt sans-serif;
+	text-align: center;
+	margin: -70pt 0 0 0;
+	width: 100%;
+	top: 50%;
+	padding: 0;
+}
+small {
+	font: normal 10pt/10pt sans-serif;
+}
+a { color: #fff }
+p{ margin: 10pt; padding: 0 }
+
+ul { 
+	font: normal 10pt/10pt sans-serif;
+	list-style: none
+}
+ul a { color: #ff0 }
+ul a:hover { color: #aa0 }
+ul li { margin-bottom: 1em }
